@@ -1,1 +1,3 @@
-# Project-Speciality
+#Credit Card Fraud Detection
+
+This project focuses on building a machine learning model to detect fraudulent credit card transactions. Since fraud cases are rare compared to legitimate ones, the dataset is highly imbalanced, making it essential to apply preprocessing, exploratory data analysis (EDA), and techniques to handle class imbalance. Various machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting, were trained and evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC, with special emphasis on minimizing false negatives. The results show that ensemble methods provide better performance in identifying fraudulent cases, highlighting the importance of precision-recall tradeoffs in fraud detection.
